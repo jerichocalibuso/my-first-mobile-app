@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exer3</string>
+    <string name="title">Lights Out!</string>
+    <string name="taps_text">0</string>
+    <string name="name_start"></string>
+    <string name="taps_label_text">taps</string>
+    <string name="enter_your_name_here_text">Enter your name here...</string>
+
+</resources>
